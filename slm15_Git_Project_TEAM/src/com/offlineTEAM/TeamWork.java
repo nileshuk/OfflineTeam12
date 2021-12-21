@@ -12,5 +12,10 @@ public class TeamWork {
 		
 
 	}
+	
+	public void m1()
+	{
+	System.out.println("hiiii everone");
+	}
 
 }
