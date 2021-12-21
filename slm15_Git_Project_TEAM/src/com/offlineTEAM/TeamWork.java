@@ -6,12 +6,11 @@ public class TeamWork {
 		System.out.println("Method By Gaurav")
 	}
 	
-	public static void main(String[] args) {
-
-	}
-	public void m1()
+	public static void main(String[] args) 
 	{
-            System.out.println("Method By Anjali");
+		System.out.println("hellow");
+		
+
 	}
 
 }
