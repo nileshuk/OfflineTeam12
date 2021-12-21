@@ -6,7 +6,7 @@ public class TeamWork {
 		
 		public void method() 
 		{
-			System.out.println("hiii--------")
+			System.out.println("hiii--------");
 		}
 	}
 
