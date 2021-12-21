@@ -7,16 +7,7 @@ public class TeamWork {
 	}
 	
 	public static void main(String[] args) {
-		
-		Teamwork yt=new Teamwork();
-		    
-		         yt.m2();
-		
-		public void method() 
-		{
-			System.out.println("hiii--------");
-		}
-		
+
 	}
 
 }
