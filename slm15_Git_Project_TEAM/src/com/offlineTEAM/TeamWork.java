@@ -8,5 +8,9 @@ public class TeamWork {
 			System.out.println("hiii--------");
 	
 	}
+	public void m1()
+	{
+		System.out.println("Hi");
+	}
 
 }
